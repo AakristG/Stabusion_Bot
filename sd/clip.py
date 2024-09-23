@@ -1,4 +1,4 @@
-#CLIP is an Open AI tool that utilizes AI to turn text into embeddings
+#This class will utilize a model named "CLIP", which is an Open AI tool that utilizes AI to turn text into embeddings
 import torch 
 from torch import nn as nn
 from nn import functional as F
